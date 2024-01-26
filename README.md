@@ -1,5 +1,13 @@
 # TASK A (Churn Classification)
 
+I picked task A because it's more interesting to work with Clockify data and it better maches my skills. 
+
+Task was completed in Python and everything is contained in the [analysis notebook](analysis.ipynb).
+
+Notebook ran on Python 3.11.4 with libraries specified in [requirements.txt](requirements.txt).
+
+---
+
 At its core, churn prediction is a classification problem, where the classes often are ‘churned’ and ‘active’. The prediction is based on historical data, including customer behavior, demographics, transaction history, and more.
 
 **Goal**: well-balanced classification model.
