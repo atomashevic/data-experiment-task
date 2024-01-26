@@ -8,7 +8,7 @@ Notebook ran on Python 3.11.4 on Ubuntu 23.04 with libraries specified in [requi
 
 **Goal**: well-balanced classification model
 
-**Outcome**: Built a classification model to predict churned accounts. The model achieves 0.72 accuracy, 0.52 precision and F1 score of 0.63. Cross-validation mean score is 0.72 and AUC is 0.79.
+**Outcome**: Logistic regression classification model to predict churned accounts. The model achieves 0.72 accuracy, 0.52 precision and F1 score of 0.63. Cross-validation mean score is 0.72 and AUC is 0.79.
 
 Overall, the model performs moderately well. It's better at predicting the majority class (active accounts) than the minority class (churned accounts). This is also reflected in the feature importance ranking.
 
